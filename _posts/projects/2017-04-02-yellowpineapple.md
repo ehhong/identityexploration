@@ -8,6 +8,7 @@ meta:
 
 project:
   title: "Yellow Pineapple"
+  cookie: "yellowpineapple"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
   logo: "assets/images/projects/yellowpineapple/logo.png"

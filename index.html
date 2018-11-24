@@ -25,9 +25,10 @@
 				<ul class="projects-list">
 					{% for item in site.categories.projects reversed %}
 						<li>
-							<a href="{{ item.url | prepend: site.baseurl }}">
+							<a class="read" id="{{ item.project.cookie }}" href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
-									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+									<img id="{{ item.project.cookie | append: "unread" }}" class="unread" src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+									<img id="{{ item.project.cookie | append: "read" }}" class="photoread" src="assets/images/read.jpg" alt="{{ item.project.title }}" />
 								</div>
 								<!-- <span class="h2">{{ item.project.type }}</span> -->
 								<!-- <h3>{{ item.project.title }}</h3> -->
@@ -37,9 +38,58 @@
 				</ul>
 			</div>
 		</section>
+		<button id="cookieClear" type="button">Clear Cookies</button>
 	</main>
 	{% include footer.html %}
+	<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="{{ "assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
 	<script src="{{ "assets/scripts/home.js" | prepend: site.baseurl }}"></script>
+	<script>
+
+		// get all project links
+		var links = document.querySelectorAll('a.read');
+
+		// add event listeners to all projects
+		for (var i = 0; i < links.length; i++) {
+		    var link = links[i];
+		    link.addEventListener('click', cookieOnClick, false);
+				link.cookieName = link.id;
+		};
+
+		// add cookies when project links are clicked
+		function cookieOnClick(event) {
+			// event.preventDefault();
+			Cookies.set(event.target.parentElement.cookieName, true);
+	    event.stopPropagation();
+		};
+
+		// clear all cookies when cookie clear is clicked
+		document.querySelector("#cookieClear").onclick = function (event) {
+			var currentCookies = Cookies.get();
+			console.log(currentCookies);
+			for (var name in currentCookies) {
+				Cookies.remove(name);
+			}
+			location.reload();
+		};
+
+		// if cookie does not exist, show unread photo
+		// if cookie does exist, show read photo
+		$(document).ready(function() {
+			for (var i = 0; i < links.length; i++) {
+			    var link = links[i];
+					console.log(Cookies.get(link.cookieName));
+			    if (Cookies.get(link.cookieName)) {
+						$("#" + link.cookieName + "unread").hide();
+						$("#" + link.cookieName + "read").show();
+					} else {
+						$("#" + link.cookieName + "read").hide();
+						$("#" + link.cookieName + "unread").show();
+					}
+			};
+    });
+
+	</script>
 </body>
 </html>

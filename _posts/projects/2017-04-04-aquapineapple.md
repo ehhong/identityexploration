@@ -8,9 +8,10 @@ meta:
 
 project:
   title: "Aqua Pineapple"
+  cookie: "aquapineapple"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/aquapineapple/logo.png"
+  logo: "assets/images/projects/aquapineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
