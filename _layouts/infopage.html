@@ -1,0 +1,35 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>{{ site.author }} / {{ site.tagline }}</title>
+	<meta name="author" content="{{ site.author }}">
+	<meta name="description" content="{{ site.description }}">
+	<meta name="keywords" content="{{ site.keywords }}">
+	{% include head.html %}
+</head>
+<body>
+	<main class="content">
+		<section class="intro">
+			<div class="container">
+				<a href="{{ site.baseurl | append: "/" }}">
+					<img class="img-center" width="50%" src="{{ "/assets/images/howdoyouseeyourself.svg" | prepend: site.baseurl }}" alt="how do you see yourself?" />
+				</a>
+			</div>
+		</section>
+		<section class="project">
+			<div class="container">
+					<p class="h2" target="_blank" title="{{ page.infopage.title }}" rel="nofollow">{{ page.infopage.title }}</p>
+					{{ page.content }}
+					<!-- page content here -->
+			</div>
+		</section>
+	</main>
+	{% include footer.html %}
+	<script src="{{ "/assets/scripts/vendor/jquery-1.12.4.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/vendor/sticky-kit.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/project.js" | prepend: site.baseurl }}"></script>
+</body>
+</html>

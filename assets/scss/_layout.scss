@@ -2,7 +2,10 @@
 	display: block;
 	margin: 0 auto;
 	max-width: 70em;
-	padding: 0 3rem;
+	padding: 3rem 5rem;
+	@media (max-width: $breakpoint-medium) {
+		padding: 1rem 5rem;
+	}
 	@include clearfix;
 }
 
@@ -44,7 +47,7 @@
 
 .intro,
 .projects {
-	padding: 0 0 5rem;
+	padding: 0;
 }
 
 .intro {
@@ -105,15 +108,15 @@
 		position: relative;
 
 		&:before {
-			content: "View Project";
+			content: "View Interview";
 			color: $color-white;
 			@extend .h2;
 			font-weight: 800;
 			position: absolute;
 			top: 50%;
 			left: 50%;
-			margin-top: -.5rem;
-			margin-left: -4.4rem;
+			margin-top: -2rem;
+			margin-left: -12rem;
 			opacity: 0;
 			-webkit-transition: all .5s ease-in-out;
     		transition: all .5s ease-in-out;
@@ -153,7 +156,9 @@
 	top: 0;
 
 	@media (min-width: $breakpoint-medium) {
-		margin-top: -21rem;
+		margin-top: 0rem;
+		max-width: 1200px;
+    margin: 0 auto;
 
 		.article-wrapper {
 			position: absolute;
@@ -174,7 +179,7 @@
 		@media (min-width: $breakpoint-medium) {
 			float: right;
 			right: 0;
-			width: 40%;
+			width: 70%;
 			position: absolute;
 			right: 5%;
 		}
@@ -190,7 +195,7 @@
 
 		@media (min-width: $breakpoint-medium) {
 			float: left;
-			width: 55%;
+			width: 25%;
 		}
 	}
 
@@ -226,7 +231,22 @@
 	}
 
 	img {
-		width: 100%;
+		margin-top: 2rem;
+		width: 49%;
+
+		@media (max-width: $breakpoint-medium) {
+			width: 100%;
+		}
+	}
+
+	.first {
+		float: left;
+	}
+	.second {
+		float: right;
+		@media (max-width: $breakpoint-medium) {
+			margin-bottom: 2rem;
+		}
 	}
 }
 
@@ -348,22 +368,45 @@
 	background: $color-alabaster;
 	bottom: 0;
 	left: 0;
-	padding: 5rem 0;
+	padding: 0;
 	position: fixed;
 	right: 0;
 	z-index: -1;
+	.container {
+		margin-top: 11rem;
+	}
 }
 
-.contact,
-.follow {
+.column {
 	@media (min-width: $breakpoint-medium) {
 		float: left;
 		margin-bottom: 0;
 		width: 33.33333%;
+		text-align: center;
 	}
+	margin-bottom: 3rem;
 }
 
-.contact,
-.follow {
-	margin-bottom: 3rem;
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.img-center {
+	width: 50%;
+	@media (max-width: $breakpoint-medium) {
+		width: 100%;
+	}
+	display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.reset-button {
+	padding: 0 0 3rem;
+	@media (max-width: $breakpoint-medium) {
+		padding: 1.5rem 0 3rem;
+	}
 }

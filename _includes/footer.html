@@ -1,17 +1,13 @@
 <footer class="footer">
 	<div class="container">
-		<section class="contact">
-			<h2>Contact</h2>
-		  <li><a title-"about">about</a></li>
-			<li><a title="{{ site.email }}" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+		<section class="about column">
+			<a class="h2" href="{{ "/about" | prepend: site.baseurl }}">About</a>
 		</section>
-		<section class="follow">
-			<h2>Follow</h2>
-			<ul>
-				<li><a title="Twitter" href="{{ site.linkedin }}" target="_blank">Linkedin</a></li>
-				<li><a title="Twitter" href="{{ site.twitter }}" target="_blank">Twitter</a></li>
-				<li><a title="Github" href="{{ site.github }}" target="_blank">Github</a></li>
-			</ul>
+		<section class="contact column">
+			<a class="h2" href="{{ "/contact" | prepend: site.baseurl }}">Contact</a>
+		</section>
+		<section class="inspiration column">
+			<a class="h2" href="{{ "/inspiration" | prepend: site.baseurl }}">Inspiration</a>
 		</section>
 	</div>
 </footer>

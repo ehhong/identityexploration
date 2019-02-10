@@ -7,8 +7,8 @@ body {
 	color: $color-black;
 	font-family: $font-poppins;
 	font-size: 1.8em;
-	line-height: 1.6;
-	font-weight: 600;
+	line-height: 1.5;
+	font-weight: 400;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -22,26 +22,34 @@ h1,
 }
 
 h2,
-.h2 {	
-	color: $color-silver-chalice;
+.h2 {
+	color: $color-tango;
 	display: block;
 	font-family: $font-lekton;
-    font-size: 1rem;
+    font-size: 3rem;
     font-weight: 400;
     letter-spacing: .2rem;
-    line-height: 1;
+    line-height: 2;
     margin: 0 0 1rem;
     text-transform: uppercase;
 }
 
+.h2-white {
+	@extend .h2;
+	color: $color-white-sand;
+}
+
 h3,
 .h3 {
-	color: $color-black;
-	font-family: $font-poppins;
-    font-size: 1.8rem;
-    font-weight: 600;
+	color: $color-silver-chalice;
+	display: block;
+	font-family: $font-lekton;
+    font-size: 2.5rem;
+    font-weight: 400;
+    letter-spacing: .2rem;
     line-height: 1;
-    margin: 0;
+    margin: 2rem 0rem 1rem 0;
+    // text-transform: uppercase;
 }
 
 p {
@@ -49,14 +57,14 @@ p {
 }
 
 a {
-	color: $color-black;
+	color: $color-teal;
 	text-decoration: none;
 }
 
 ul {
 	margin: 0;
 	padding: 0;
-	list-style-type: none;	
+	list-style-type: none;
 }
 
 img {
@@ -86,7 +94,7 @@ code {
 	border: 1px solid $color-silver-chalice;
 	border-radius: 3px;
 	font-family: $font-lekton;
-	font-size: 1.5rem;	
+	font-size: 1.5rem;
 	padding: .1rem .4rem;
 
 	var {
@@ -99,7 +107,7 @@ dl {
 
 	dt,
 	dd {
-		font-family: $font-lekton;		
+		font-family: $font-lekton;
 	}
 
 	dt {
@@ -113,9 +121,9 @@ dl {
 
 .responsive-table {
 	margin-bottom: 3rem;
-	
+
 	@media (max-width: $breakpoint-xsmall) {
-		display: block;	
+		display: block;
 		overflow-x: scroll;
 		max-width: $breakpoint-xsmall;
 
@@ -127,7 +135,7 @@ dl {
 }
 
 table {
-	border-collapse: collapse;	
+	border-collapse: collapse;
 	width: 100%;
 
 	thead {
@@ -137,7 +145,7 @@ table {
 		}
 	}
 
-	tbody > tr:nth-child(odd) > td, 
+	tbody > tr:nth-child(odd) > td,
 	tbody > tr:nth-child(odd) > th {
 		background: $color-white-sand;
 	}
@@ -167,4 +175,9 @@ blockquote {
 
 pre {
 	margin: 0 0 3rem;
+}
+
+button {
+    font-family : $font-lekton;
+		font-weight: 400;
 }
