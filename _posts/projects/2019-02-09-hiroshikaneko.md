@@ -35,7 +35,7 @@ And I guess I've also been trying to figure out what it means to be Japanese Ame
 <p>
 Architecture is the most important point. I think also, I go in and out of thinking whether my identity as a Jewish person or a Japanese person is important or not in the practice of architecture.
 <br>
-I think now, in school, it's sort of becoming more apparent to me that the practice of architecture is the most important thing. I've found it hard to include conversations [about being a Jewish and Japanese] in what I do, or at least to also find a community around it. So I think for the most part, I've decided that architecture is the priority, and then for everything else, I want to keep up the language and the conversation around it.
+I think now, in school, it's sort of becoming more apparent to me that the practice of architecture is the most important thing. I've found it hard to include conversations [about being Jewish and Japanese] in what I do, or at least to also find a community around it. So I think for the most part, I've decided that architecture is the priority, and then for everything else, I want to keep up the language and the conversation around it.
 <br>
 And then with family, that’s actually the most important thing. Although that's a complicated issue.
 </p>
