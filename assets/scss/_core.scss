@@ -7,7 +7,7 @@ body {
 	color: $color-black;
 	font-family: $font-poppins;
 	font-size: 1.8em;
-	line-height: 1.5;
+	line-height: 1.75;
 	font-weight: 400;
 	-webkit-font-smoothing: antialiased;
 }
@@ -39,6 +39,7 @@ h2,
 	color: $color-white-sand;
 }
 
+// question headings
 h3,
 .h3 {
 	color: $color-silver-chalice;
@@ -49,7 +50,6 @@ h3,
     letter-spacing: .2rem;
     line-height: 1;
     margin: 2rem 0rem 1rem 0;
-    // text-transform: uppercase;
 }
 
 p {

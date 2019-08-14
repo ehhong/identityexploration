@@ -1,12 +1,18 @@
 .container {
 	display: block;
 	margin: 0 auto;
-	max-width: 70em;
-	padding: 3rem 5rem;
+	max-width: 65em;
+	padding: 1rem 3rem;
 	@media (max-width: $breakpoint-medium) {
 		padding: 1rem 5rem;
 	}
 	@include clearfix;
+}
+
+// different max widths for text vs home page
+.project-container {
+	@extend .container;
+	max-width: 850px;
 }
 
 .header {
@@ -51,6 +57,17 @@
 }
 
 .intro {
+	// how do you see yourself title img
+	img {
+		width: 85%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	@media (max-width: $breakpoint-medium) {
+		img {
+			width: 100%;
+		}
+	}
 	@media (min-width: $breakpoint-medium) {
 		p {
 			font-size: 2.7rem;
@@ -150,6 +167,7 @@
 	}
 }
 
+// article width
 .project {
 	left: 0;
 	position: relative;
@@ -157,8 +175,8 @@
 
 	@media (min-width: $breakpoint-medium) {
 		margin-top: 0rem;
-		max-width: 1200px;
-    margin: 0 auto;
+		max-width: 850px;
+    	margin: 0 auto;
 
 		.article-wrapper {
 			position: absolute;
@@ -222,6 +240,10 @@
 		}
 	}
 
+	p {
+		margin-bottom:0.5em;
+	}
+
 	li {
 		margin-bottom: 0rem;
 
@@ -231,8 +253,8 @@
 	}
 
 	img {
-		margin-top: 2rem;
-		width: 49%;
+		margin-bottom: 2rem;
+		width: 40%;
 
 		@media (max-width: $breakpoint-medium) {
 			width: 100%;
@@ -240,10 +262,13 @@
 	}
 
 	.first {
-		float: left;
+		margin-top: 2rem;
+		margin-left: 2rem;
+		float: right;
 	}
 	.second {
-		float: right;
+		margin-right: 2rem;
+		float: left;
 		@media (max-width: $breakpoint-medium) {
 			margin-bottom: 2rem;
 		}
@@ -395,13 +420,13 @@
 }
 
 .img-center {
-	width: 50%;
+	// width: 50%;
 	@media (max-width: $breakpoint-medium) {
 		width: 100%;
 	}
 	display: block;
-  margin-left: auto;
-  margin-right: auto
+  	margin-left: auto;
+  	margin-right: auto
 }
 
 .reset-button {
