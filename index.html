@@ -26,12 +26,9 @@
 					{% for item in site.categories.projects reversed %}
 						<li>
 							<a class="read" id="{{ item.project.cookie }}" href="{{ item.url | prepend: site.baseurl }}">
-								<div class="img-wrapper">
-									<img id="{{ item.project.cookie | append: "unread" }}" class="unread" src="{{ item.project.unread | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
-									<img id="{{ item.project.cookie | append: "read" }}" class="photoread" src="{{ item.project.read | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+								<div class="img-wrapper" id="{{ item.project.cookie | append: "wrapper" }}">
+									<!-- programmatically add 'read' or 'unread' image here  -->
 								</div>
-								<!-- <span class="h2">{{ item.project.type }}</span> -->
-								<!-- <h3>{{ item.project.title }}</h3> -->
 							</a>
 						</li>
 					{% endfor %}
@@ -56,14 +53,14 @@
 		for (var i = 0; i < links.length; i++) {
 		    var link = links[i];
 		    link.addEventListener('click', cookieOnClick, false);
-				link.cookieName = link.id;
+			link.cookieName = link.id;
 		};
 
 		// add cookies when project links are clicked
 		function cookieOnClick(event) {
 			// event.preventDefault();
 			Cookies.set(event.target.parentElement.cookieName, true);
-	    event.stopPropagation();
+	    	event.stopPropagation();
 		};
 
 		// clear all cookies when cookie clear is clicked
@@ -81,13 +78,13 @@
 		$(document).ready(function() {
 			for (var i = 0; i < links.length; i++) {
 			    var link = links[i];
-					console.log(Cookies.get(link.cookieName));
+				console.log(Cookies.get(link.cookieName));
+                // clear project img wrapper div beforehand
+				$("#" + link.cookieName + "wrapper").empty();
 			    if (Cookies.get(link.cookieName)) {
-						$("#" + link.cookieName + "unread").hide();
-						$("#" + link.cookieName + "read").show();
+						$("#" + link.cookieName + "wrapper").append("<img src='assets/images/projects/" + link.cookieName + "/" + link.cookieName + "-read.png' alt='" + link.cookieName + " read' />");
 					} else {
-						$("#" + link.cookieName + "read").hide();
-						$("#" + link.cookieName + "unread").show();
+						$("#" + link.cookieName + "wrapper").append("<img src='assets/images/projects/" + link.cookieName + "/" + link.cookieName + "-unread.png' alt='" + link.cookieName + " unread' />");
 					}
 			};
     });

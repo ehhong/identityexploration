@@ -15,6 +15,11 @@
 	max-width: 850px;
 }
 
+.info-container {
+	@extend .container;
+	max-width: 850px;
+}
+
 .header {
 	background: $color-white;
 	padding: 3rem 0;
