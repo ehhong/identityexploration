@@ -21,6 +21,12 @@ images:
 - image:
   url: "assets/images/projects/melissakwan/melissakwan-read.png"
   alt: "read"
+
+bio: "
+<h2>Melissa Kwan</h2>
+<p>
+Melissa Kwan is a first-year (’22) originally from the Bay Area of California. On campus, she is involved with the Crimson Multimedia board, a few Computer Science organizations, and is starting a “humans of Harvard” page. Although currently undeclared, Melissa is considering concentrating in Computer Science.
+</p>"
 ---
 
 <h3>What are some ways that you see yourself?</h3>
@@ -65,10 +71,4 @@ In terms of Asian-ness, multiple people have called me a fake Asian because I do
 I feel good about it, and so far I wouldn't change that much. I would be upset if I thought I was getting pigeonholed, but just because I've been lucky with where I grew up and who I've been surrounded with, I haven't found that to be the case. But so far with the Bay Area, good Asian food, lots of Asian people. I don't think people generally hold stereotypes just because they know so many Asian people.
 <br>
 Constance Wu once said in an interview that she knows that there will be real progress in Hollywood when you can create a show about an Asian nerd that totally fits the stereotype, and he or she gets his or her own story. So far, Hollywood has been trying to explicitly show characters to counteract the stereotypes, but you know that real progress has been achieved when they can create a character who embodies that stereotype in every way and make them the focus.
-</p>
-
-
-<h3>Harvard Intro:</h3>
-<p>
-Melissa Kwan is a first-year (’22) originally from the Bay Area of California. On campus, she is involved with the Crimson Multimedia board, a few Computer Science organizations, and is starting a “humans of Harvard” page. Although currently undeclared, Melissa is considering concentrating in Computer Science.
 </p>

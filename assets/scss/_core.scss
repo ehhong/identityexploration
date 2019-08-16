@@ -29,8 +29,8 @@ h2,
     font-size: 3rem;
     font-weight: 400;
     letter-spacing: .2rem;
-    line-height: 2;
-    margin: 0 0 1rem;
+    line-height: 1;
+    margin: 3rem 0rem 1rem 0rem;
     text-transform: uppercase;
 }
 
@@ -56,9 +56,55 @@ p {
 	margin: 0;
 }
 
-a {
-	color: $color-teal;
+// footer links
+a.h2-nav {
+	@extend h2;
+	color: $color-tango;
 	text-decoration: none;
+	display: inline-block;
+	padding: 5px 5px;
+	position: relative;
+}
+a.h2-nav:after {
+	background: none repeat scroll 0 0 transparent;
+	bottom: 0;
+	content: "";
+	display: block;
+	height: 0.8em;
+	left: 50%;
+	bottom: 0%;
+	position: absolute;
+	background: $color-light-yellow;
+	background-position: 0% -100%;
+	z-index: -1;
+	transition: width 0.3s ease 0s, left 0.3s ease 0s;
+	width: 0;
+}
+a.h2-nav:hover:after {
+	color: $color-tango;
+	width: 100%;
+	left: 0;
+}
+
+// inspiration page links
+a.link {
+	color: $color-dark-teal;
+    text-decoration: none;
+	background-image: linear-gradient($color-light-yellow, $color-light-yellow);
+	background-position: 0% -150%;
+    background-repeat: no-repeat;
+    background-size: 0% 2em;
+    transition: background-size .3s;
+}
+
+a.link:hover, a.link:focus {
+	color: $color-dark-teal;
+    background-size: 100% 1.8em;
+	text-decoration: none;
+}
+
+a.link:visited {
+	color: $color-dark-purple;
 }
 
 ul {

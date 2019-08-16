@@ -21,6 +21,10 @@ images:
 - image:
   url: "assets/images/projects/hiroshikaneko/hiroshikaneko-read.png"
   alt: "read"
+
+bio: "<h2>Hiroshi Kaneko</h2>
+<p>Hiroshi Kaneko is a student at the Graduate School of Design (GSD) in his first year of the post-professional MArch II (Master of Architecture II) program. He grew up in Portland, Oregon, received his BArch (Bachelor of Architecture) at University of Oregon, spent some time working in New York, and then came to Harvard. On campus, Hiroshi is involved with Japan GSD.</p>"
+
 ---
 <h3>What are some ways that you see yourself?</h3>
 <p>
@@ -69,6 +73,3 @@ I used to feel that way. I don't know how much I feel that on a daily basis now.
 <br>
 [At Harvard], there hasn't been an issue at all, which has been really nice. Everyone is inquisitive enough that it's not enough to just see someone and think, “I know who you are.” Everyone is really into asking questions, and I love questions.
 </p>
-
-<h3>Harvard intro:</h3>
-<p>Hiroshi Kaneko is a student at the Graduate School of Design (GSD) in his first year of the post-professional MArch II (Master of Architecture II) program. He grew up in Portland, Oregon, received his BArch (Bachelor of Architecture) at University of Oregon, spent some time working in New York, and then came to Harvard. On campus, Hiroshi is involved with Japan GSD.</p>

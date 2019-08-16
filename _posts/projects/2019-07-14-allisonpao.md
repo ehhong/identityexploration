@@ -21,6 +21,11 @@ images:
 - image:
   url: "assets/images/projects/allisonpao/allisonpao-read.png"
   alt: "read"
+
+bio: "<h2>Allison Pao</h2>
+<p>
+Allison Pao is a sophomore (’21) in Leverett House, concentrating in Social Studies with a focus in Education and Culture. Before coming to Harvard, Allison lived in New York City, Nashville, and Switzerland. On campus, Allison is involved with the Harvard Ed Portal, the course USW35: Dilemmas of Equity and Excellence in K-12 Education, the Harvard Democratic Knowledge Project (DKP), the Harvard radio station (WHRB), and the Harvard College Social Enterprise Association.
+</p>"
 ---
 
 <h3>What are some ways that you see yourself?</h3>
@@ -51,9 +56,4 @@ It's hard to say, it's kind of like the chicken and egg problem. I don't know wh
 <h3>How do you feel about how you are seen by others, and would you want others to see you differently?</h3>
 <p>
 It's like that thought experiment. If nobody knew you were a violinist and you never played your violin in front of anyone else, would you still be a violinist? I feel like the answer to that is yes and no. It's not that I would want people to see me differently in that I wouldn't want to try to twist things to make people have a certain perception of my identity. But at the same time, parts of my identity, I would want them to be known. For example, when I talked about my identity as wanting to make a positive impact on people, the very essence of that requires me to do things in relation to other people. So in that sense, I would want to affect how people perceive me through my actions. But in the other sense, I wouldn't want to make that a manufactured identity.
-</p>
-
-<h3>Harvard intro:</h3>
-<p>
-Allison Pao is a sophomore (’21) in Leverett House, concentrating in Social Studies with a focus in Education and Culture. Before coming to Harvard, Allison lived in New York City, Nashville, and Switzerland. On campus, Allison is involved with the Harvard Ed Portal, the course USW35: Dilemmas of Equity and Excellence in K-12 Education, the Harvard Democratic Knowledge Project (DKP), the Harvard radio station (WHRB), and the Harvard College Social Enterprise Association.
 </p>

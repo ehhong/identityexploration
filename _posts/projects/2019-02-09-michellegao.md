@@ -21,6 +21,10 @@ images:
 - image:
   url: "assets/images/projects/michellegao/michellegao-read.png"
   alt: "read"
+
+bio: "<h2>Michelle Gao</h2>
+<p>Michelle Gao is a sophomore (’21) from New York City studying government and living in Adams House. On campus, she is a columns editor for the Harvard Crimson, and she works at the Harvard Law Review.</p>"
+
 ---
 <h3>What parts of your identity do you feel that you interact with most on a daily basis?</h3>
 <p>
@@ -70,6 +74,3 @@ I guess I've come across as saying that people do see my race, but at the same t
 <br>
 I guess I am trying to advocate for a world in which those things will matter less because I think they're kind of... not irrelevant, but just sort of unproductive at times.
 </p>
-
-<h3>Harvard intro:</h3>
-<p>Michelle Gao is a sophomore (’21) from New York City studying government and living in Adams House. On campus, she is a columns editor for the Harvard Crimson, and she works at the Harvard Law Review.</p>

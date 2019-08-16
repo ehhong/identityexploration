@@ -21,6 +21,12 @@ images:
 - image:
   url: "assets/images/projects/belindahu/belindahu-read.png"
   alt: "read"
+
+bio: "<h2>Belinda Hu</h2>
+<p>
+Belinda Hu is a sophomore (’21) living in Pforzheimer House and studying History of Science. She is from the Bay Area of California. On campus, Belinda is a member of the women’s golf team and a house representative for the Resource Efficiency Program.
+</p>
+"
 ---
 
 <h3>What parts of your identity do you feel were important to you growing up, and have any of those aspects changed?</h3>
@@ -53,9 +59,4 @@ Because I was from a place where most of my friends were Asian, once I got to th
 Personally, I'm someone that doesn't want to care about what other people think of me but does care [laughs].
 <br>
 Obviously everyone's a little bit insecure about how people see them and I think in the past, I probably wanted to be different. But right now–obviously there are some things I'd like to change about myself–I think I'm coming to the realization that it's really just cool to be who you are. I'm an ABC, I was born in America, but I'm Chinese. I play a sport at Harvard, which is something I don't even believe sometimes. I go to Harvard. That's also something that's insane. And I think I'm trying to kind of accept the different quirks that come with my personality and who I am. It’s a work in progress.
-</p>
-
-<h3>Harvard intro:</h3>
-<p>
-Belinda Hu is a sophomore (’21) living in Pforzheimer House and studying History of Science. She is from the Bay Area of California. On campus, Belinda is a member of the women’s golf team and a house representative for the Resource Efficiency Program.
 </p>

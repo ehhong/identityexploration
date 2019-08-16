@@ -21,6 +21,12 @@ images:
 - image:
   url: "assets/images/projects/rachelkang/rachelkang-read.png"
   alt: "read"
+
+bio: "
+<h2>Rachel Kang</h2>
+<p>
+Rachel Kang is a junior (’20) originally from New York, living in Lowell House, and studying Computer Science. On campus, Rachel is involved with Women in Computer Science, The Crimson, The Women's Center, and Korean Association.
+</p>"
 ---
 
 <h3>What are some ways that you see yourself?</h3>
@@ -66,9 +72,4 @@ Okay–I appreciate you asking this the way you've worded the question because i
 <br>
 Although these categories come to mind in conversations like this, I don't actively think, "oh, I am a Korean American, Asian American woman with a younger sister, nine years younger than me." That's just one way I present myself in-line with society's obsession of labelling everyone and everything. It's not how I go about my life. All these categories intersect so much, and to form just a part of who I am, but no category perfectly captures exactly who I am. And that goes for everyone!
 So I guess I don't want people to see me as a being that fits into these categories, even though I identified myself in that manner too. I want people to see me for who I am, beyond these labels – to see me for what I like to do, the conversations I share with them, the way I treat others, and all the subtle things that don't have labels.
-</p>
-
-<h3>Harvard Intro:</h3>
-<p>
-Rachel Kang is a junior (’20) originally from New York, living in Lowell House, and studying Computer Science. On campus, Rachel is involved with Women in Computer Science, The Crimson, The Women's Center, and Korean Association.
 </p>

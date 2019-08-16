@@ -21,6 +21,9 @@ images:
 - image:
   url: "assets/images/projects/krystalphu/krystalphu-read.png"
   alt: "read"
+
+bio: "<h2>Krystal Phu</h2>
+<p>Krystal Phu is a senior (’19) concentrating in Human Developmental and Regenerative Biology. She was born in Massachusetts but spent most of her childhood in the Marshall Islands. On campus, she is the co-chair of the Pforzheimer House Commiteee and a photo journalist at the Crimson. Krystal also conducts research on the effects of dietary factors on cardiac fibrosis and indicators of cardiovascular health in mice at the Lee Laboratory.</p>"
 ---
 <h3>What are some ways that you see yourself?</h3>
 <p>I would identify myself as an Asian American.
@@ -44,6 +47,3 @@ My ethnic identity is a little more complicated. My family is majority Chinese e
 
 <h3>How do you think that others see you?</h3>
 <p>At first, a lot of people have the impression that I'm quieter and a little more meek than I actually am. As soon as anyone gets to know me even a little bit, they'd see that I'm kind of a loud person. I'm really not afraid to tell people things they don't want to hear, if that's what I believe is right. I think my parents raised me to be that way because they were afraid people would stereotype me or take advantage of me in social and professional situations. And I think, you know, from that first impression a lot of people will think, oh, she's probably shy, or strait-laced, or whatever the words are that sort of characterize me as someone I'm not. I enjoy – almost a little too much – bucking that initial impression that people have of me. For example, I choose particular ways of dressing that go along with that. I guess, if I wear heels all the time it's because I enjoy announcing my presence when I walk into a room. It's probably off-putting, but I do it anyway. I like feeling that type of self-confidence. I worked hard for it.</p>
-
-<h3>Harvard intro:</h3>
-<p>Krystal Phu is a senior (’19) concentrating in Human Developmental and Regenerative Biology. She was born in Massachusetts but spent most of her childhood in the Marshall Islands. On campus, she is the co-chair of the Pforzheimer House Commiteee and a photo journalist at the Crimson. Krystal also conducts research on the effects of dietary factors on cardiac fibrosis and indicators of cardiovascular health in mice at the Lee Laboratory.</p>
