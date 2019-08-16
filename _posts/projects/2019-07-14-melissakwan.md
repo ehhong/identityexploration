@@ -40,7 +40,7 @@ How that manifested itself actually was being in journalism in high school and h
 
 <h3>What parts of your identity do you feel were most important to you growing up?</h3>
 <p>
-Up until I was in fourth grade or so, I was fairly quiet and fairly shy, and I much more fit the stereotype of the quiet Asian girl. Then, I played volleyball and that brought me out of my shell. For a while, that was a big source of confidence–playing sports.
+Up until I was in fourth grade or so, I was fairly quiet and fairly shy, and I much more fit the stereotype of the quiet Asian girl. Then, I played volleyball and that brought me out of my shell. For a while, that was a big source of confidence – playing sports.
 <br>
 In the latter years of high school, [sports] started to become less of a part of my identity, and journalism started to play a bigger role. But I definitely credit sports for being a huge reason why I don't see myself as shy.
 </p>
@@ -54,9 +54,9 @@ I think that one big part of my identity is having a younger brother who is amaz
 
 <h3>What words do you use to describe your racial/ethnic identity, and how do some of those words connect with ways that you do or don’t see yourself?</h3>
 <p>
-I’m Chinese American, my parents both moved here–my mom to the States and my dad to Canada–when they were very young. So I've essentially been second generation. But I still do consider myself Chinese American, and I think that part of my identity has always been very affirmed because I've grown up in the Bay Area in schools that were so heavily Asian. My high school I would approximate is around 40% East Asian and 40% South Asian. I've never felt like I had to distance myself from [being Asian]. If anything, I was almost less Asian than my peers because my parents had lived [in the United States] for so long.
+I’m Chinese American, my parents both moved here – my mom to the States and my dad to Canada – when they were very young. So I've essentially been second generation. But I still do consider myself Chinese American, and I think that part of my identity has always been very affirmed because I've grown up in the Bay Area in schools that were so heavily Asian. My high school I would approximate is around 40% East Asian and 40% South Asian. I've never felt like I had to distance myself from [being Asian]. If anything, I was almost less Asian than my peers because my parents had lived [in the United States] for so long.
 <br>
-I would characterize this by what my family eats for dinner typically. We just have everything with the rice, and that I think is a good metaphor for my identity–“just with rice.” If we have ribs for example, something stereotypically very American, we'll still have rice with it. Or after Thanksgiving, we'll have congee with Turkey. It's sort of the cursory Asian-ness there, but stripped of a lot of things that other people have experienced growing up with parents who have more recently immigrated.
+I would characterize this by what my family eats for dinner typically. We just have everything with the rice, and that I think is a good metaphor for my identity – “just with rice.” If we have ribs for example, something stereotypically very American, we'll still have rice with it. Or after Thanksgiving, we'll have congee with Turkey. It's sort of the cursory Asian-ness there, but stripped of a lot of things that other people have experienced growing up with parents who have more recently immigrated.
 </p>
 
 <h3>How do you feel that others see you?</h3>

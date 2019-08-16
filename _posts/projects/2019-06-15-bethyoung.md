@@ -43,14 +43,14 @@ I also identify as just a caring person who wants to make people feel included. 
 <h3>How have that compare to how you see yourself now?</h3>
 <p>
 I think since growing up people are just more comfortable with the other gender, you kind of mature a little bit.
-I've also become more cognizant of my racial identity–what it means to be Asian American, what it means to like have immigrant parents. I feel like there's a lot of indirect pressure to be successful or to make a good life here because your family came here for that opportunity. I think that definitely shapes the type of person you are.
+I've also become more cognizant of my racial identity – what it means to be Asian American, what it means to like have immigrant parents. I feel like there's a lot of indirect pressure to be successful or to make a good life here because your family came here for that opportunity. I think that definitely shapes the type of person you are.
 </p>
 
 <h3>What words do you use to describe your racial or ethnic identity, and how do some of those words connect with ways that you do or don’t see yourself?</h3>
 <p>
 I describe myself as Asian American, Chinese American.
 <br>
-In my Asian American Literature class, we've talked about how there's a difference between the hyphenated Asian-American versus the non-hyphenated Asian American. I didn't even know it was a thing, I just assumed there's a hyphen grammar wise. But there's something about having the hyphen there, as if you're not American enough by just being. You're Asian-American–you're describing the Americanness. Without the hyphen, it’s is a validated identity; you can do both without being a type of American.
+In my Asian American Literature class, we've talked about how there's a difference between the hyphenated Asian-American versus the non-hyphenated Asian American. I didn't even know it was a thing, I just assumed there's a hyphen grammar wise. But there's something about having the hyphen there, as if you're not American enough by just being. You're Asian-American – you're describing the Americanness. Without the hyphen, it’s is a validated identity; you can do both without being a type of American.
 <br>
 When people think of Asian American, people think model minority, high socioeconomic status, and well educated, which is a stereotype. For me, my grandmother never went to high school, and both of my parents were lucky enough to have college educations, but when they came to America they both had to re-go to school because they couldn't practice what they were doing in China in America. I'll never truly understand what that felt like, and they've done a good job of minimizing it. But things come up and that's really tough, you know? I don't know if people realize that. It's not necessarily that I don't want it to be shared, but it's just weird to put all of that information on someone who you're just meeting. You don't want to overwhelm people by being like, well actually, all this stuff happened, but it's all there.
 </p>

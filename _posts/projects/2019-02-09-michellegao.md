@@ -40,7 +40,7 @@ I think... I think I'm much more interested in my Chinese identity now in terms 
 
 <h3>Is how you see yourself now different from how you identify?</h3>
 <p>
-Yeah, definitely. I mean, I think for example, when I'm writing, I've written a couple of articles about race, but I've actually written very few articles specifically about Asian identity–actually probably only one. And I really didn't want to, for example, write a column that was going to be on racial issues, and I don't really want to be seen as someone who opines only on things I specifically know. I mean obviously with some exceptions, there are some topics I wouldn't write about because I think it's too important to have some personal experience. But even as an Asian person, I feel it's well within my wheelhouse to opine on racial issues in general or other political things.
+Yeah, definitely. I mean, I think for example, when I'm writing, I've written a couple of articles about race, but I've actually written very few articles specifically about Asian identity – actually probably only one. And I really didn't want to, for example, write a column that was going to be on racial issues, and I don't really want to be seen as someone who opines only on things I specifically know. I mean obviously with some exceptions, there are some topics I wouldn't write about because I think it's too important to have some personal experience. But even as an Asian person, I feel it's well within my wheelhouse to opine on racial issues in general or other political things.
 </p>
 
 <h3>What words do you use to describe your racial and/or ethnic identity and how do some of those words connect to ways you do or don’t see yourself?</h3>
@@ -53,7 +53,7 @@ Well, I used to think, obviously I'm Asian American, I'm Asian and I live in Ame
 We've already talked about how those physical attributes are the first things people see.
 I don't know. I mean there are obviously things I want to be known for outside of that. I mean, I already talked about, for example, one of the cool things about writing is that you can just sort of have your opinion stand for itself. Although, because of your byline, people can already make assumptions about who you are.
 <br>
-I think the assumptions people would get from my byline are correct ones–that I'm an Asian female. But yeah, I guess, you know, being known for things that you actually do as opposed to those facts.
+I think the assumptions people would get from my byline are correct ones – that I'm an Asian female. But yeah, I guess, you know, being known for things that you actually do as opposed to those facts.
 </p>
 
 <h3>Do you think your ethnic identity connects with the ways that others see you?</h3>
@@ -68,7 +68,7 @@ And I, I don't know, at times I've been accused of wanting to be white or you kn
 <h3>Would you want others to see you differently?</h3>
 <p>
 Yeah, mostly. I mean, I guess I generally advocate for less use of race in the world.
-I think it's sort of counterintuitive in this age when we are trying to–at the same time be more aware of all these different identities–to sort of reinforce their differences. It’s sort of paradoxical, right? I don't really know how exactly that should work out.
+I think it's sort of counterintuitive in this age when we are trying to – at the same time be more aware of all these different identities – to sort of reinforce their differences. It’s sort of paradoxical, right? I don't really know how exactly that should work out.
 <br>
 I guess I've come across as saying that people do see my race, but at the same time I don't think it's a huge part of what they actually think, you know, if they're just like, "that person over there, I can remember her face" or whatever.
 <br>

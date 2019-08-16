@@ -31,19 +31,19 @@ Myung In Lee is a junior (’20) in Lowell House pursuing a joint concentration 
 
 <h3>What are some ways that you see yourself?</h3>
 <p>
-I relate very strongly to my family. I tend to give a lot to my friends. So although I know a lot of people, I have a very small circle of close friends. And I think I'm very entrenched into being Asian–more so than being Asian American–and seeing how that balances out in the States.
+I relate very strongly to my family. I tend to give a lot to my friends. So although I know a lot of people, I have a very small circle of close friends. And I think I'm very entrenched into being Asian – more so than being Asian American – and seeing how that balances out in the States.
 </p>
 
 <h3>Looking retrospectively, what parts of your identity were most important to you growing up?</h3>
 <p>
-I think perhaps I had a messiah complex, that I could just save the world in whatever aspect I was thinking about any given particular point in time. It’s weird, it's abstract, but definitely the biggest part of my identity, the thing that I thought most about and planned my future for, was how to be great–whatever that meant to me.
+I think perhaps I had a messiah complex, that I could just save the world in whatever aspect I was thinking about any given particular point in time. It’s weird, it's abstract, but definitely the biggest part of my identity, the thing that I thought most about and planned my future for, was how to be great – whatever that meant to me.
 </p>
 
 <h3>What are some similarities and/or differences about how you saw yourself then versus now?</h3>
 <p>
 Oh, it's mountains and valleys different. Before, it was a lot more self-centered. I think now it's a lot more how do I place myself on something that's already been given to me instead of trying to create something wholly new and unrealistic. And that places different priorities and emphasis points in my life.
 </p><p>
-I don't think I had many thoughts about any of the things I consider integral to my identity now. I wasn't that close to my family growing up. I'm really close to my family now. Being Christian when I was growing up was just a chore. Now, it's definitely a choice–it’s the most important thing to me. I didn't really think twice about being Asian growing up because I was always surrounded by Asians. But when I came to the States, people thought I was white enough to be white Asian.
+I don't think I had many thoughts about any of the things I consider integral to my identity now. I wasn't that close to my family growing up. I'm really close to my family now. Being Christian when I was growing up was just a chore. Now, it's definitely a choice – it’s the most important thing to me. I didn't really think twice about being Asian growing up because I was always surrounded by Asians. But when I came to the States, people thought I was white enough to be white Asian.
 </p>
 
 <h3>How would you describe your racial/ethnic identity, and how does that connect with ways that you do or don’t see yourself?</h3>
@@ -51,7 +51,7 @@ I don't think I had many thoughts about any of the things I consider integral to
 Proudly Asian, Asian American [laughs]. I don't know. It's kind of simple for me.
 </p><p>
 It goes through seasons of thoughts I have of myself. There's definitely a sense of emasculation from being an Asian male, but I'm able to shove away pretty quickly just because generally speaking, I think it's a trivial thought to be having.
-There are definitely expectations of me that I feel burdened by, especially being a Computer Science [concentrator], to be incredibly–I don't know–technical. I'm not saying I'm not technical, but I'll definitely say I'm more product oriented than I am back-end oriented.
+There are definitely expectations of me that I feel burdened by, especially being a Computer Science [concentrator], to be incredibly – I don't know – technical. I'm not saying I'm not technical, but I'll definitely say I'm more product oriented than I am back-end oriented.
 </p><p>
 [Being a] Philosophy [concentrator] surprises people for some stupid reason. I know that affects me as well, but these are just general wispy things that I go through sometimes.
 </p>

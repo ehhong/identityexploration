@@ -28,7 +28,7 @@ bio: "<h2>Hiroshi Kaneko</h2>
 ---
 <h3>What are some ways that you see yourself?</h3>
 <p>
-I am a student of architecture, on my way–hopefully–to become a licensed architect. That's going to take another couple of years after school.
+I am a student of architecture, on my way – hopefully – to become a licensed architect. That's going to take another couple of years after school.
 <br>
 I have a partner in New York, I’m a brother, and I’m a son.
 <br>
@@ -62,7 +62,7 @@ If I had to choose one right now... I used to operate out of fear, and now I ope
 <p>
 That's a great question.
 <br>
-As I'm not a part of–on a daily basis–a community of fourth generation Japanese Americans or Jews, Jewish people, or mixed Jewish Asian people, I don't know if I have a very big vocabulary of speaking about myself or issues within this sphere.
+As I'm not a part of – on a daily basis – a community of fourth generation Japanese Americans or Jews, Jewish people, or mixed Jewish Asian people, I don't know if I have a very big vocabulary of speaking about myself or issues within this sphere.
 <br>
 So I guess the only two words I'd say are Jewish and Japanese American... that's a great question. I think.... I think... I think most of the time I am not either. In the context of talking to certain people, I'm one or the other, but looking back, I am inevitably a result of both of those things. So that's a hard... this is why it's so hard to answer because on the one hand I'm not thinking about it, but on the other hand if I actually sat down and thought about it, it has been a big part of my life. So it's, I don't know…
 </p>
