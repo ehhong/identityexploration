@@ -22,6 +22,8 @@ images:
   url: "assets/images/projects/bethyoung/bethyoung-read.png"
   alt: "read"
 
+quote: If you talk to me, I'm just going to tell you how I feel and put all my cards out because I feel like I truly have nothing to hide.
+
 bio: "<h2>Beth Young</h2>
 <p>
 Beth is a senior (’19) in Eliot House concentrating in Economics with a secondary in Psychology. Before Harvard, she grew up in Belmont, MA, which she describes as “embarrassingly close.” On campus, Beth is one of the Eliot HoCo (House Committee) chairs and the associate marketing manager for yearbook.
@@ -62,5 +64,5 @@ I think other people see me as extroverted, outgoing, caring. I think I'm genera
 
 <h3>How do you feel about how you’re seen by others, and would you want others to see you differently?</h3>
 <p>
-I feel like I'm pretty comfortable with how other people see me only because I'm a very open book. If you talk to me, I'm just going to like tell you how I feel and put all my cards out because I feel like I truly have nothing to hide. Whatever impression people have of me, I think I'm okay with it because I would just put everything out there. I'm probably really annoying and I talk too much. But I think that people, if they interact with me, they know who I am, and I think I'm happy about that.
+I feel like I'm pretty comfortable with how other people see me only because I'm a very open book. If you talk to me, I'm just going to tell you how I feel and put all my cards out because I feel like I truly have nothing to hide. Whatever impression people have of me, I think I'm okay with it because I would just put everything out there. I'm probably really annoying and I talk too much. But I think that people, if they interact with me, they know who I am, and I think I'm happy about that.
 </p>

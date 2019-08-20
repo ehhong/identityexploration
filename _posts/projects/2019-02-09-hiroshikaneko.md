@@ -22,6 +22,8 @@ images:
   url: "assets/images/projects/hiroshikaneko/hiroshikaneko-read.png"
   alt: "read"
 
+quote: I used to operate out of fear, and now I operate – on a good day – out of optimism.
+
 bio: "<h2>Hiroshi Kaneko</h2>
 <p>Hiroshi Kaneko is a student at the Graduate School of Design (GSD) in his first year of the post-professional MArch II (Master of Architecture II) program. He grew up in Portland, Oregon, received his BArch (Bachelor of Architecture) at University of Oregon, spent some time working in New York, and then came to Harvard. On campus, Hiroshi is involved with Japan GSD.</p>"
 

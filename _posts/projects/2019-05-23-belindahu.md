@@ -22,6 +22,8 @@ images:
   url: "assets/images/projects/belindahu/belindahu-read.png"
   alt: "read"
 
+quote: I feel like I'm in the middle of like 'American American' – whatever that means – and 'Chinese Chinese' – whatever that means.
+
 bio: "<h2>Belinda Hu</h2>
 <p>
 Belinda Hu is a sophomore (’21) living in Pforzheimer House and studying History of Science. She is from the Bay Area of California. On campus, Belinda is a member of the women’s golf team and a house representative for the Resource Efficiency Program.

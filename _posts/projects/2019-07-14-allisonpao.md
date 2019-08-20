@@ -22,6 +22,8 @@ images:
   url: "assets/images/projects/allisonpao/allisonpao-read.png"
   alt: "read"
 
+quote: I guess I always wanted to be different or unique, but I felt like I couldn't because of the way I looked.
+
 bio: "<h2>Allison Pao</h2>
 <p>
 Allison Pao is a sophomore (’21) in Leverett House, concentrating in Social Studies with a focus in Education and Culture. Before coming to Harvard, Allison lived in New York City, Nashville, and Switzerland. On campus, Allison is involved with the Harvard Ed Portal, the course USW35: Dilemmas of Equity and Excellence in K-12 Education, the Harvard Democratic Knowledge Project (DKP), the Harvard radio station (WHRB), and the Harvard College Social Enterprise Association.

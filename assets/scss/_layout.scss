@@ -2,7 +2,7 @@
 	display: block;
 	margin: 0 auto;
 	max-width: 65em;
-	padding: 1rem 3rem;
+	padding: 2rem 3rem;
 	@media (max-width: $breakpoint-medium) {
 		padding: 1rem 5rem;
 	}
@@ -179,7 +179,7 @@
 	top: 0;
 
 	@media (min-width: $breakpoint-medium) {
-		margin-top: 0rem;
+		margin-top: 0;
 		max-width: 850px;
     	margin: 0 auto;
 

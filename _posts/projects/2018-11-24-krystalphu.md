@@ -22,6 +22,8 @@ images:
   url: "assets/images/projects/krystalphu/krystalphu-read.png"
   alt: "read"
 
+quote: I enjoy – almost a little too much – bucking that initial impression that people have of me.
+
 bio: "<h2>Krystal Phu</h2>
 <p>Krystal Phu is a senior (’19) concentrating in Human Developmental and Regenerative Biology. She was born in Massachusetts but spent most of her childhood in the Marshall Islands. On campus, she is the co-chair of the Pforzheimer House Commiteee and a photo journalist at the Crimson. Krystal also conducts research on the effects of dietary factors on cardiac fibrosis and indicators of cardiovascular health in mice at the Lee Laboratory.</p>"
 ---
@@ -42,7 +44,7 @@ So discovering my identity as a woman of color... it felt like a haven, just to 
 <h3>How do you describe your racial and ethnic identity, and how does that affect how you do or don’t see yourself?</h3>
 <p>My racial identity is Asian American.
 <p></p>
-My ethnic identity is a little more complicated. My family is majority Chinese ethnically speaking, but both sides of my family are from Vietnam, and on my father's side we are partially Vietnamese. So that has made it difficult to fit in with the Chinese American community, especially with older members of the Chinese American community. I think there are a lot of sort of expectations about retainment of culture in the Chinese American community that I don't quite meet. I don't speak Mandarin fluently, and I can only read a little bit of Chinese. I tend to feel a little more aligned culturally with the Vietnamese American community – in my experience, Vietnamese Americans tend to be very accepting, and our culture is really very underappreciated.
+My ethnic identity is a little more complicated. My family is majority Chinese ethnically speaking, but both sides of my family are from Vietnam, and on my father's side we are partially Vietnamese. So that has made it difficult to fit in with the Chinese American community, especially with older members of the Chinese American community. I think there are a lot of sort of expectations about retainment of culture in the Chinese American community that I don't quite meet. I don't speak Mandarin fluently, and I can only read a little bit of Chinese. I tend to feel a little more aligned culturally with the Vietnamese American community – in my experience, Vietnamese Americans tend to be very accepting, and our culture is really very under appreciated.
 </p>
 
 <h3>How do you think that others see you?</h3>

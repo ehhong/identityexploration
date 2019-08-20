@@ -22,6 +22,8 @@ images:
   url: "assets/images/projects/rachelkang/rachelkang-read.png"
   alt: "read"
 
+quote: I identify myself in terms of the categories that others might ascribe me to, but these categories are so far from being all-encompassing.
+
 bio: "
 <h2>Rachel Kang</h2>
 <p>

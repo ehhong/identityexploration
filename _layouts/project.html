@@ -19,15 +19,12 @@
 		</section>
 		<section class="project">
 			<div class="container">
-					<!-- <p class="h2" target="_blank" title="{{ page.project.title }}" rel="nofollow">{{ page.project.title }}</p> -->
+					<h2 class="h2-quote">"{{ page.quote }}"</h2>
 					<img class="first" src="{{ page.project.unread | prepend: "../" }}" alt="{{ page.project.title | append: " unread" }}" />
 					{{ page.content }}
 				<div>
 					<img class="second" src="{{ page.project.read | prepend: "../" }}" alt="{{ page.project.title | append: " read" }}" />
 					{{ page.bio }}
-					<!-- {% for image in page.images %}
-						<img src="{{ image.url | prepend: site.baseurl }}" alt="{{ image.alt }}" />
-					{% endfor %} -->
 				<div>
 			</div>
 		</section>

@@ -22,6 +22,8 @@ images:
   url: "assets/images/projects/myunginlee/myunginlee-read.png"
   alt: "read"
 
+quote: I think misconceptions transcend the color of your skin. Your personality... that transcends everything.
+
 bio: "
 <h2>Myung In Lee</h2>
 <p>

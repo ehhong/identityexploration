@@ -22,6 +22,8 @@ images:
   url: "assets/images/projects/billzhang/billzhang-read.png"
   alt: "read"
 
+quote: There's always a tug of war going on in me between different parts of my personality or different manifestations of it.
+
 bio: "<h2>Bill Zhang</h2>
 <p>
 Bill Zhang is a sophomore (’21) in Adams house concentrating in Applied Math, Computer Science, and Economics (??). He was born and raised in Atlanta, Georgia. At one time or another, Bill has been involved in the Harvard Financial Analysts Club, Harvard Computing Society, Datamatch, Chinese Students Association, Board Game Club, Chess Club, and Club Tennis.

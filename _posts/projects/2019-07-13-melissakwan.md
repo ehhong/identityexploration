@@ -22,6 +22,8 @@ images:
   url: "assets/images/projects/melissakwan/melissakwan-read.png"
   alt: "read"
 
+quote: We just have everything with the rice, and that I think is a good metaphor for my identity – 'just with rice.'
+
 bio: "
 <h2>Melissa Kwan</h2>
 <p>
@@ -63,7 +65,7 @@ I would characterize this by what my family eats for dinner typically. We just h
 <p>
 I feel like other people see me as fairly willing to do my own thing, as in if someone says something that I don't agree with, I will be fairly direct about like expressing my opinion, whether that's agreeing or disagreeing.
 <p></p>
-In terms of Asian-ness, multiple people have called me a fake Asian because I don't speak Chinese. I don't like Sushi because seaweed is gross to me [laughs]. I didn't grow up with certain tropes of the Asian childhood, and while I find some parts of the meme page, Subtle Asian Traits, immensely relatable, I can't even understand other parts of it because I don't speak Chinese, and that's kind of sad to me. I guess I'm not subtly Asian enough [laughs], but it's fine. It's always just a joke. I haven't really taken anything too seriously or had some sort of crisis of identity because I'm not Asian enough.
+In terms of Asian-ness, multiple people have called me a fake Asian because I don't speak Chinese. I don't like sushi because seaweed is gross to me [laughs]. I didn't grow up with certain tropes of the Asian childhood, and while I find some parts of the meme page, Subtle Asian Traits, immensely relatable, I can't even understand other parts of it because I don't speak Chinese, and that's kind of sad to me. I guess I'm not subtly Asian enough [laughs], but it's fine. It's always just a joke. I haven't really taken anything too seriously or had some sort of crisis of identity because I'm not Asian enough.
 </p>
 
 <h3>How do you feel about how you’re seen by others, and would you want others to see you differently?</h3>

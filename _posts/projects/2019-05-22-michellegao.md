@@ -22,6 +22,8 @@ images:
   url: "assets/images/projects/michellegao/michellegao-read.png"
   alt: "read"
 
+quote: I don't really want to be seen as someone who opines only on things I specifically know.
+
 bio: "<h2>Michelle Gao</h2>
 <p>Michelle Gao is a sophomore (’21) from New York City studying government and living in Adams House. On campus, she is a columns editor for the Harvard Crimson, and she works at the Harvard Law Review.</p>"
 
