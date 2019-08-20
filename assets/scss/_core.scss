@@ -88,7 +88,7 @@ a.h2-nav:hover:after {
 
 // inspiration page links
 a.link {
-	color: $color-dark-teal;
+	color: $color-teal;
     text-decoration: none;
 	background-image: linear-gradient($color-light-yellow, $color-light-yellow);
 	background-position: 0% -150%;
@@ -98,13 +98,13 @@ a.link {
 }
 
 a.link:hover, a.link:focus {
-	color: $color-dark-teal;
+	color: $color-teal;
     background-size: 100% 1.8em;
 	text-decoration: none;
 }
 
 a.link:visited {
-	color: $color-dark-purple;
+	color: $color-dark-teal;
 }
 
 ul {

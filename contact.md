@@ -18,12 +18,6 @@ images:
   url: "assets/images/projects/jesseng/jesseng-read.png"
   alt: "read"
 ---
-<p>
-Have a question?
-<br>
-Don't see your story represented?
-<br>
-Want to get involved?
-<br>
-Email me at <a class="link" href="mailto:emilyhong@college.harvard.edu">emilyhong@college.harvard.edu</a>
-</p>
+Have a question? Don't see your story represented? Want to get in touch?
+<p></p>
+Contact me at [emilyhong@college.harvard.edu](mailto:emilyhong@college.harvard.edu){:.link}
