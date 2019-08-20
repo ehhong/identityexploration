@@ -26,7 +26,7 @@ For too long, Asian Americans have been told that their stories don’t matter. 
 ### where did this come from?
 This project was born out of an amalgamation of thoughts, events, and feelings. Thoughts sparked by a class on Chinese Immigration in America, dining hall discussions, reflections on my childhood. Events: the SFFA’s lawsuit against Affirmative Action, the release of Crazy Rich Asians, the movement to disaggregate statistics describing Asian American populations. Feelings: frustration, confusion, reconciliation, love, belonging.
 <p></p>
-It’s easy to say that the Asian American community is as complex and heterogeneous as any other group of human beings. But unless you speak with those in the community and listen to what they have to say, it’s difficult to really believe it, to deeply know that truth.
+It’s easy to say that the Asian American community is as complex and heterogeneous as any other group of human beings. But unless you speak with those in the community and listen to what they have to say, it’s difficult to believe it, to deeply know that truth.
 <p></p>
 I’ve spent the last year or so learning a lot more about Asian American history and identity. Race is just one descriptor of a person, but in the history of the United States, it has largely proven itself definitive. Look anywhere and there are plenty of theories, statistics, policies, etc. that seek to explain it, but I always return to the same conclusion: race is visual. It’s obvious.
 <p></p>
