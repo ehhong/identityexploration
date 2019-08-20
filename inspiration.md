@@ -18,6 +18,10 @@ images:
   url: "/assets/images/projects/jesseng/jesseng-read.png"
   alt: "read"
 ---
-<a class="link" href="https://www.nytimes.com/2018/10/13/opinion/sunday/harvard-and-the-myth-of-the-interchangeable-asian.html">Harvard and the Myth of the Interchangeable Asian</a>
+### related reads:
+- [Harvard and the Myth of the Interchangeable Asian](https://www.nytimes.com/2018/10/13/opinion/sunday/harvard-and-the-myth-of-the-interchangeable-asian.html){:.link} by Lisa Ko
+- [Crying in Hmart](https://www.newyorker.com/culture/culture-desk/crying-in-h-mart){:.link} by Michelle Zauner
+- [How I Would Have Fared on the SAT’s Adversity Score](https://www.newyorker.com/news/daily-comment/how-i-would-have-fared-on-the-sats-adversity-score){:.link} by Jiayang Fan
+
 <br>
-<a class="link" href="https://www.newyorker.com/culture/culture-desk/crying-in-h-mart">Crying in Hmart</a>
+Have more to add? Let me know!

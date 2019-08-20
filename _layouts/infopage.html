@@ -21,7 +21,7 @@
 		<section class="project">
 			<div class="container">
 					<p class="h2" target="_blank" title="{{ page.infopage.title }}" rel="nofollow">{{ page.infopage.title }}</p>
-					{{ page.content }}
+					{{ page.content | markdownify }}
 					<!-- page content here -->
 			</div>
 		</section>
