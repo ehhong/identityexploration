@@ -22,7 +22,7 @@ images:
   url: "assets/images/projects/melissakwan/melissakwan-read.png"
   alt: "read"
 
-quote: We just have everything with the rice, and that I think is a good metaphor for my identity – 'just with rice.'
+quote: We just have everything with the rice, and that's a good metaphor for my identity – 'just with rice.'
 
 bio: "
 <h2>Melissa Kwan</h2>

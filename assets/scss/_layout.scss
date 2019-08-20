@@ -9,6 +9,12 @@
 	@include clearfix;
 }
 
+.intro-container {
+	@extend .container;
+	max-width: .85 * 65em;
+}
+
+
 // different max widths for text vs home page
 .project-container {
 	@extend .container;
@@ -17,7 +23,7 @@
 
 .info-container {
 	@extend .container;
-	max-width: 850px;
+	max-width: .85 * 850px;
 }
 
 .header {
@@ -64,7 +70,7 @@
 .intro {
 	// how do you see yourself title img
 	img {
-		width: 85%;
+		width: 100%;
 		margin-left: auto;
 		margin-right: auto;
 	}

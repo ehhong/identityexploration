@@ -66,7 +66,7 @@ That's a great question.
 <p></p>
 As I'm not a part of – on a daily basis – a community of fourth generation Japanese Americans or Jews, Jewish people, or mixed Jewish Asian people, I don't know if I have a very big vocabulary of speaking about myself or issues within this sphere.
 <p></p>
-So I guess the only two words I'd say are Jewish and Japanese American... that's a great question. I think.... I think... I think most of the time I am not either. In the context of talking to certain people, I'm one or the other, but looking back, I am inevitably a result of both of those things. So that's a hard... this is why it's so hard to answer because on the one hand I'm not thinking about it, but on the other hand if I actually sat down and thought about it, it has been a big part of my life. So it's, I don't know…
+So I guess the only two words I'd say are Jewish and Japanese American... that's a great question. I think.... I think... I think most of the time I am not either. In the context of talking to certain people, I'm one or the other, but looking back, I am inevitably a result of both of those things. So that's a hard... it's so hard to answer because on the one hand I'm not thinking about it, but on the other hand if I actually sat down and thought about it, it has been a big part of my life. So it's, I don't know…
 </p>
 
 <h3>Do you feel that you are seen differently than how you present yourself?</h3>

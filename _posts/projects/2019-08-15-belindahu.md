@@ -22,7 +22,7 @@ images:
   url: "assets/images/projects/belindahu/belindahu-read.png"
   alt: "read"
 
-quote: I feel like I'm in the middle of like 'American American' – whatever that means – and 'Chinese Chinese' – whatever that means.
+quote: I'm in the middle of 'American American' – whatever that means – and 'Chinese Chinese' – whatever that means.
 
 bio: "<h2>Belinda Hu</h2>
 <p>
@@ -46,14 +46,18 @@ I've also really come to realize how important friendships are, especially in a 
 <p>
 Well, Chinese. That's for me what first comes to mind when you say identity. I am Chinese, even though I may not be Chinese in the most literal sense of the word.
 <p></p>
-I feel like I'm in the middle of like "American American" – whatever that means – and "Chinese Chinese" – whatever that means. My parents speak Chinese at home and there's very much a Chinese aspect in my life. I eat Chinese dishes, we go to Chinese restaurants, and we celebrate Chinese holidays. Yet, there is very much an American aspect of my life where… when I go back to China, it's hard. This summer, I interned in China for two months and lived alone, so it was really a rollercoaster. One of my coworkers just straight up asked me if I was an ABC (American Born Chinese), and it made me realize… well, I'm not like these people. It's harder for me to speak Chinese to my relatives, it's harder for me to understand what's going on in China, and it's hard for me to understand the way of life in China.
+I feel like I'm in the middle of "American American" – whatever that means – and "Chinese Chinese" – whatever that means. My parents speak Chinese at home and there's very much a Chinese aspect in my life. I eat Chinese dishes, we go to Chinese restaurants, and we celebrate Chinese holidays.
+<p></p>
+Yet, there is very much an American aspect of my life where… when I go back to China, it's hard. This summer, I interned in China for two months and lived alone, so it was really a rollercoaster. One of my coworkers just straight up asked me if I was an ABC (American Born Chinese), and it made me realize… well, I'm not like these people. It's harder for me to speak Chinese to my relatives, it's harder for me to understand what's going on in China, and it's hard for me to understand the way of life in China.
 <p></p>
 But I learned so much from [interning in China]. And what's funny is, if you'd asked me a year or so ago if I'd wanted to go to China to live by myself for two months, I for sure would've said no. I hated Chinese school in the past. But literally on a whim, I went to China for two months and I feel like I'm just so more appreciative of this side of me, and now I'm taking Chinese and it's awesome.
 </p>
 
 <h3>How do you think others see you?</h3>
 <p>
-Because I was from a place where most of my friends were Asian, once I got to the east coast I kind of was like, I want to branch out and meet different kinds of people. And so I got out of my comfort zone to meet a lot of different kinds of people, which I learned a lot from. Doing this highlighted that I wasn't exactly like other people in certain ways. Perspectives-wise, looks-wise, backgrounds-wise… there were a lot of differences. Yet one thing I noticed is that most of the people I met still treated me the same and they were really interested in, I guess, my background... they were very receptive. That's something that I've come to realize now, some of my closest friends at Harvard are in fact not Asian, but this in no way takes away from my identity of being Asian. In general, I've come to really appreciate this kind of diversity of people in my life now. At the end of the day, these people are my friends and they view me in the same way, even if my background is different. It's a really good learning experience.
+Because I was from a place where most of my friends were Asian, once I got to the east coast I kind of was like, I want to branch out and meet different kinds of people. And so I got out of my comfort zone to meet a lot of different kinds of people, which I learned a lot from. Doing this highlighted that I wasn't exactly like other people in certain ways. Perspectives-wise, looks-wise, backgrounds-wise… there were a lot of differences.
+<p></p>
+Yet one thing I noticed is that most of the people I met still treated me the same and were really interested in my background... they were very receptive. That's something that I've come to realize now, some of my closest friends at Harvard are in fact not Asian, but this in no way takes away from my identity of being Asian. In general, I've come to really appreciate this kind of diversity of people in my life now. At the end of the day, these people are my friends and they view me in the same way, even if my background is different. It's a really good learning experience.
 </p>
 
 <h3>Would you want others to see you differently?</h3>

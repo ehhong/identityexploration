@@ -22,7 +22,7 @@ images:
   url: "assets/images/projects/myunginlee/myunginlee-read.png"
   alt: "read"
 
-quote: I think misconceptions transcend the color of your skin. Your personality... that transcends everything.
+quote: Misconceptions transcend the color of your skin. Your personality... that transcends everything.
 
 bio: "
 <h2>Myung In Lee</h2>
@@ -43,7 +43,7 @@ I think perhaps I had a messiah complex, that I could just save the world in wha
 
 <h3>What are some similarities and/or differences about how you saw yourself then versus now?</h3>
 <p>
-Oh, it's mountains and valleys different. Before, it was a lot more self-centered. I think now it's a lot more how do I place myself on something that's already been given to me instead of trying to create something wholly new and unrealistic. And that places different priorities and emphasis points in my life.
+Oh, it's mountains and valleys different. Before, it was a lot more self-centered. Now it's a lot more how do I place myself on something that's already been given to me instead of trying to create something wholly new and unrealistic. And that places different priorities and emphasis points in my life.
 </p><p>
 I don't think I had many thoughts about any of the things I consider integral to my identity now. I wasn't that close to my family growing up. I'm really close to my family now. Being Christian when I was growing up was just a chore. Now, it's definitely a choice – it’s the most important thing to me. I didn't really think twice about being Asian growing up because I was always surrounded by Asians. But when I came to the States, people thought I was white enough to be white Asian.
 </p>
@@ -53,6 +53,7 @@ I don't think I had many thoughts about any of the things I consider integral to
 Proudly Asian, Asian American [laughs]. I don't know. It's kind of simple for me.
 </p><p>
 It goes through seasons of thoughts I have of myself. There's definitely a sense of emasculation from being an Asian male, but I'm able to shove away pretty quickly just because generally speaking, I think it's a trivial thought to be having.
+<p></p>
 There are definitely expectations of me that I feel burdened by, especially being a Computer Science [concentrator], to be incredibly – I don't know – technical. I'm not saying I'm not technical, but I'll definitely say I'm more product oriented than I am back-end oriented.
 </p><p>
 [Being a] Philosophy [concentrator] surprises people for some stupid reason. I know that affects me as well, but these are just general wispy things that I go through sometimes.
@@ -63,6 +64,7 @@ There are definitely expectations of me that I feel burdened by, especially bein
 It's a loaded question.
 </p><p>
 To be honest, I don't really know because I stopped thinking about what other people think about me a year or two.
+<p></p>
 I know some people think I'm a tool. I know other people think I'm a nerd. I know some people think I'm full of myself. I know some people think I'm incredibly humble and generous. But I don't know what the general conception of me is. These things have less to do with my identity and more to do with my personality.
 </p><p>
 It’s sad how people perceive that there are cool Asians and not cool Asians. I tried to separate myself away from that by not being a part of any social organizations. I have a lot of friends who would, generically speaking, fall under both categories, and seeing that divide when it's completely unnecessary is frustrating.
@@ -80,6 +82,7 @@ At Harvard, I think about it a lot less because I have many friends who are whit
 No, I think that's their own prerogative. As long as the people I love know who I am and what I stand for, which includes my identity and vice versa, that’s the most important thing to me.
 </p><p>
 I think misconceptions transcend the color of your skin. Your personality... that transcends everything. That's just idiots talking at each other, blabbing away. It's going to happen anywhere, especially at an institution like ours.
+<p></p>
 So, I don't really care what people think. More so for me, I want the people around me to know how much of I love all of them and care about them. And that has a lot to do with the color of my skin because that's the way I was culturally raised from my parents. It has set a thick foundation for how I treat other people and see other people and want to show my love for other people.
 </p><p>
 As long as people around me know that, I think that's good.

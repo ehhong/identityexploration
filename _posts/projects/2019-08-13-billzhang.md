@@ -26,7 +26,7 @@ quote: There's always a tug of war going on in me between different parts of my 
 
 bio: "<h2>Bill Zhang</h2>
 <p>
-Bill Zhang is a sophomore (’21) in Adams house concentrating in Applied Math, Computer Science, and Economics (??). He was born and raised in Atlanta, Georgia. At one time or another, Bill has been involved in the Harvard Financial Analysts Club, Harvard Computing Society, Datamatch, Chinese Students Association, Board Game Club, Chess Club, and Club Tennis.
+Bill Zhang is a sophomore (’21) in Adams house concentrating in Applied Math, Computer Science, and Economics. He was born and raised in Atlanta, Georgia. At one time or another, Bill has been involved in the Harvard Financial Analysts Club, Harvard Computing Society, Datamatch, Chinese Students Association, Board Game Club, Chess Club, and Club Tennis.
 </p>"
 ---
 
@@ -45,6 +45,7 @@ I would say my personality mainly because I think that defines who I am, and tha
 <h3>What parts of your identity were most important to you growing up?</h3>
 <p>
 There are only very few instances in my life where what I thought was most important was not my personality. Probably only a couple of times at the beginning of elementary school, where I felt like being Asian was weird, mainly because of bringing lunch to school and some manifestation of bullying. My parents played a very, very important role in helping me overcome that.
+<p></p>
 In general, throughout my life, personality has always been most important to me. I think the main reason why race or gender hasn't really been that much of an issue is because I never really felt like a minority as an Asian American. My elementary school and middle school and high school were all very much almost Asian majority, and that meant that there was never a sense of "I needed to fit in with the culture that didn't make sense to me." And I didn't even realize that there was this very big issue of whitewashing or Asians not being able to embrace their culture until I got to college and heard other people's stories about how their identities shaped them or how they tried to push away their identity.
 </p>
 

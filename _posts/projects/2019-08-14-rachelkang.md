@@ -43,6 +43,7 @@ Last but not least, I see myself as an older sister. I have a younger sister who
 <h3>What parts of your identity were most important to you growing up?</h3>
 <p>
 I guess this is where my sister comes more into play. Growing up, I was very lonely at first.  For one, it wasn't until I was nine that my sister came into my life, and elementary school kids always talk about their brothers and sisters! Also, as my parents were really strict, which is also largely associated with the Asian American part of my identity, I didn't hang out with people that much outside of school. So, I think the absence of a sibling in my life played a huge factor in my growing-up.
+<p></p>
 But once I found out that my sister was coming into my life, I was super excited and spent a huge chunk of my time preparing for her arrival. Once she actually came into my life, it was a complete game-changer!
 </p>
 
@@ -73,5 +74,6 @@ It took me a while to realize that all Asian Americans face similar struggles, d
 Okay – I appreciate you asking this the way you've worded the question because in all honesty, even with how I answered your previous questions, whenever people speak of identity, I don't really think about my self. I always think, "what categories do I fall into?" I describe how I identify myself in terms of the categories that others might ascribe me to, but these categories are so far from being all-encompassing.
 <p></p>
 Although these categories come to mind in conversations like this, I don't actively think, "oh, I am a Korean American, Asian American woman with a younger sister, nine years younger than me." That's just one way I present myself in-line with society's obsession of labelling everyone and everything. It's not how I go about my life. All these categories intersect so much, and to form just a part of who I am, but no category perfectly captures exactly who I am. And that goes for everyone!
+<p></p>
 So I guess I don't want people to see me as a being that fits into these categories, even though I identified myself in that manner too. I want people to see me for who I am, beyond these labels – to see me for what I like to do, the conversations I share with them, the way I treat others, and all the subtle things that don't have labels.
 </p>
