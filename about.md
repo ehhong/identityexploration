@@ -19,7 +19,7 @@ images:
   alt: "read"
 ---
 ### hi, welcome!
-This is a personal project on identity in Asian American communities at Harvard. Over the fall of 2018, I collected interviews from 15 members of the Harvard Asian American community. Since then, I’ve compiled and illustrated their stories to convey how they see themselves to you.
+This is a personal project on identity in Asian American communities at Harvard. Over the fall of 2018, I conducted interviews of 15 individuals from the Harvard Asian American community. Since then, I’ve compiled and illustrated their stories to convey how they see themselves to you.
 <p></p>
 For too long, Asian Americans have been told that their stories don’t matter. This is a small attempt to change that narrative.
 
@@ -30,7 +30,9 @@ It’s easy to say that the Asian American community is as complex and heterogen
 <p></p>
 I’ve spent the last year or so learning a lot more about Asian American history and identity. Race is just one descriptor of a person, but in the history of the United States, it has largely proven itself definitive. Look anywhere and there are plenty of theories, statistics, policies, etc. that seek to explain it, but I always return to the same conclusion: race is visual. It’s obvious.
 <p></p>
-This project is built upon that simple idea. What would it be like to hear about how people see themselves before seeing them? What if we had more to extrapolate upon than someone’s name and profile picture? In early November 2018, with the help and support of some *amazing* peers and mentors, I designed this project. I then sent out an email to some Asian American organizations on campus asking for interviewees, and I was pleasantly surprised by the willingness and enthusiasm of those who reached out to share their stories.
+This project is built upon that simple idea. *What would it be like to hear about how people see themselves before seeing them? What if we had more to extrapolate upon than someone’s name and profile picture?*
+<p></p>
+In early November 2018, with the help and support of some amazing peers and mentors, I designed this project. Then, I sent out an email to some Asian American organizations on campus asking for interviewees, and I was pleasantly surprised by the willingness and enthusiasm of those who reached out to share their stories.
 <p></p>
 Since then, I’ve conducted, transcribed, and illustrated fifteen 15-minute interviews. These fifteen individuals have been both brave and kind enough to share pieces of themselves with you, and I hope that through these stories, we’ll strive to listen to each other a little bit more.
 
