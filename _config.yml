@@ -10,3 +10,5 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+
+google_analytics: UA-125086399-1
