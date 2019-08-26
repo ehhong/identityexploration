@@ -18,6 +18,6 @@ images:
   url: "assets/images/projects/jesseng/jesseng-read.png"
   alt: "read"
 ---
-Have a question? Don't see your story represented? Want to get in touch?
+Have a question? Don't see your story represented? Just want to get in touch?
 <p></p>
 Contact me at [emilyhong@college.harvard.edu](mailto:emilyhong@college.harvard.edu){:.link}
