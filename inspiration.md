@@ -23,6 +23,7 @@ images:
 - [Harvard and the Myth of the Interchangeable Asian](https://www.nytimes.com/2018/10/13/opinion/sunday/harvard-and-the-myth-of-the-interchangeable-asian.html){:.link} by Lisa Ko
 - [Crying in Hmart](https://www.newyorker.com/culture/culture-desk/crying-in-h-mart){:.link} by Michelle Zauner
 - [How I Would Have Fared on the SAT’s Adversity Score](https://www.newyorker.com/news/daily-comment/how-i-would-have-fared-on-the-sats-adversity-score){:.link} by Jiayang Fan
+- [Real Person](https://theharvardadvocate.com/article/913/real-person/){:.link} by Katherine Liu
 - [The Struggles of Writing About Chinese Food as a Chinese Person](https://www.vice.com/en_us/article/yp7bx5/the-struggles-of-writing-about-chinese-food-as-a-chinese-person){:.link} by Clarissa Wei
 - [Hollywood Doesn't Fully Represent Asian Americans Yet](https://www.vice.com/en_us/article/7xggba/hollywood-doesnt-fully-represent-asian-americans-yet){:.link} by Bettina Makalintal
 - [The Last of the Tiger Parents](https://www.nytimes.com/2018/06/22/opinion/sunday/asian-american-tiger-parents.html){:.link} by Ryan Park
